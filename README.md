@@ -4,9 +4,9 @@
 ## uConsole OS Images
 
 ### CM4 
-* http://dl.clockworkpi.com/uConsole_CM4_v2.0_64bit.img.7z  
-md5sum 468331055e29ceac880d9b7948837175  
- [Google drive link](https://drive.google.com/file/d/1mMiDTKf8Cg5YAaRr6WLpyy7x4bIh14TQ/view?usp=drive_link)  
+* http://dl.clockworkpi.com/uConsole_CM4_v2.1_64bit.img.bz2    
+md5sum  b14715f3fe2789ef8b40dded37c3bc63    
+ [Google drive link](https://drive.google.com/drive/folders/1LYiT_G9b08VG5oqKIpOHd9msAtL_X99u?usp=sharing)   
 * http://dl.clockworkpi.com/uConsole_CM4_v0.1b_xfce_64bit.img.7z  (based on [RPI-lite](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf-lite.img.xz) with xfce)   
 md5sum a191603d7da0f826d347f1bb8d525687  
  This version is optimized for immersive writing and comes pre-installed with [Obsidian](https://obsidian.md/).
